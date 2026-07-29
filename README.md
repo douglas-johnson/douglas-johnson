@@ -1,4 +1,10 @@
-Hi I'm Doug, a Product Engineer with The Thought & Expression Company. We publish things online and in print.
+# Yes, this is Doug
+
+I am a web developer and engineering leader based in New York with twenty years of experience, focused on enterprise editorial applications for media organizations.
+
+Over the past ten years I have worked with The Thought and Expression Company, starting at the first in-house developer, then as engineering team lead for revenue operations and now as a partner and product engineer.
+
+Thought & Expression Co. produces websites, books, podcasts, video series, apparel and infinite social media posts. We also combine those things into top-notch agency work for ad campaigns, content marketing and social media management.
 
 - Our network of sites includes [Thought Catalog](https://thoughtcatalog.com/), [Collective World](https://collective.world/), [Creepy Catalog](https://creepycatalog.com/) and [Quote Catalog](https://www.quotecatalog.com/).
 - Products from our publishing imprint [Thought Catalog Books](https://thoughtcatalog.com/books/) are available through [Shop Catalog](https://shopcatalog.com/).

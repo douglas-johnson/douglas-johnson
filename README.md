@@ -12,8 +12,8 @@ Thought & Expression Co. produces websites, books, podcasts, video series, appar
 
 # Projects
 
-- Cata themes, blocks and plugin
-  - [Cata](https://github.com/thoughtis/cata) is a WordPress parent theme that we used for all Thought & Expression sites starting in 2019. Since 2024 any new site uses the full site editor rather than a classic theme.
+- Thought Catalog and network sites
+  - [Cata](https://github.com/thoughtis/cata) is a WordPress parent theme that pairs with our [child theme generator](https://github.com/thoughtis/cata-child).
   - [Cata Blocks](https://github.com/thoughtis/cata-blocks) provides custom blocks for use on any site in our network.
   - [Cata Co-Authors Plus](https://github.com/thoughtis/cata-co-authors-plus/) adds functionality to Co-Authors Plus to allow editing guest author profiles in the block editor.
   - [Cata CLI](https://github.com/thoughtis/cata-cli) provides custom WP CLI commands.

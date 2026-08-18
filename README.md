@@ -23,6 +23,6 @@ Thought & Expression Co. produces websites, books, podcasts, video series, appar
   - [Readme](https://github.com/Automattic/co-authors-plus/tree/3.6.0#blocks), [JS](https://github.com/Automattic/co-authors-plus/tree/3.6.0/src/blocks), [PHP](https://github.com/Automattic/co-authors-plus/tree/3.6.0/php/blocks)
 - [DadBodRapPod](https://github.com/douglas-johnson/dbrp)
   - I made the latest version of https://dadbodrappod.com on Shopify Hydrogen for the release of [Quibble Jam Illustrated](https://dadbodrappod.com/products/quibble-jam-illustrated).
-  - We're updating now for the release of new products and to get the most of our newer versions of React Router.
+  - I recently updated it for React Router 7+ and to prepare for the release of new products.
 - Pet Project: prototyping while working offline
-  - [https://github.com/thoughtis/prototyping-boilerplate](https://github.com/douglas-johnson/prototyping-boilerplate)
+  - [https://github.com/douglas-johnson/prototyping-boilerplate](https://github.com/douglas-johnson/prototyping-boilerplate)
